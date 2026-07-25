@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Ni-ki",
+    "phone": "+380990006677",
+    "email": "ni-ki@4gmail.com",
+    "city": "Харків",
+    "family": "Одружен(а)/ий"
+  },
+  {
+    "id": 3,
+    "name": "Jake",
+    "phone": "+380994536678",
+    "email": "Jake@4gmail.com",
+    "city": "Одеса",
+    "family": "Одружен(а)/ий"
+  },
+  {
+    "id": 4,
+    "name": "Jay",
+    "phone": "+380551234455",
+    "email": "Jay@gmail.com",
+    "city": "Київ",
+    "family": "Не одружен(а)/ий"
+  },
+  {
+    "id": 9,
+    "name": "Suno",
+    "phone": "+380112233444",
+    "email": "Suno@gmail.com",
+    "city": "Київ",
+    "family": "Не одружен(а)/ий"
+  },
+  {
+    "id": 10,
+    "name": "Heeseung",
+    "phone": "+380665432211",
+    "email": "Heeseung@gmail.com",
+    "city": "Київ",
+    "family": "Не одружен(а)/ий"
+  },
+  {
+    "id": 11,
+    "name": "Sunghoon",
+    "phone": "+380998877111",
+    "email": "Sunghoon@gmail.com",
+    "city": "Львів",
+    "family": "Одружен(а)/ий"
+  },
+  {
+    "id": 13,
+    "name": "Jungwoon",
+    "phone": "+380886665544",
+    "email": "Jungwoon@gmail.com",
+    "city": "Полтава",
+    "family": "Не одружен(а)/ий"
+  }
+]

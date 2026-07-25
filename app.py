@@ -1,6 +1,6 @@
 import streamlit as st
 from about_page import show_about_page
-
+from contacts_app.app import show_contacts_page
 
 st.set_page_config(
     page_title="Personal Project",
@@ -9,7 +9,8 @@ st.set_page_config(
 )
 
 page = st.navigation({
-    "": [st.Page(show_about_page, title="Про мене", default=True)]
-}, position="sidebar")
+    "": [st.Page(show_about_page, title="Про мене", default=True)],
+    "Мої проєкти": [st.Page(show_contacts_page, title="Список контактів")]
+}, position="top")  # "sidebar" - бічна панель, а "top" - вгорі
 
 page.run()
