@@ -20,7 +20,7 @@ PLACES = [
         description=("Хочу побачити Колізей, Римський форум і прогулятися історичним центром."),
         image_url="https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=900&q=80",
         visited=False
-    )
+    ),
 ]
 
 

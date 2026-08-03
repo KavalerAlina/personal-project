@@ -15,7 +15,7 @@ page = st.navigation({
         st.Page(show_contacts_page, title="Список контактів"),
         st.Page(show_places_page, title="Мої улюблені місця")
     ]
-}, position="top")  # "sidebar" - бічна панель, а "top" - вгорі
+}, position="sidebar")  # "sidebar" - бічна панель, а "top" - вгорі
 
 
 page.run()
