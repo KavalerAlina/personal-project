@@ -2,8 +2,10 @@ import streamlit as st
 
 EMAIL = 'kavaler0991al@gmail.com'
 GITHUB_URL = 'https//github.com/KavalerAlina'
+AVATAR_URL = 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80'
 
 def show_about_page():
+    st.image(AVATAR_URL, width=180, caption="Alina")
     st.title("Alina")
 
     st.subheader("Мої проєкти")
