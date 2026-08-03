@@ -21,6 +21,15 @@ PLACES = [
         image_url="https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=900&q=80",
         visited=False
     ),
+    Place(
+        name="Токіо",
+        country="Японія",
+        description=("Місто, у якому сучасні технології поєднуються з давніми традиціями."),
+        image_url="https://images.unsplash.com/photo-1540959733332-"
+            "eab4deabeeaf?auto=format&fit=crop&w=900&q=80",
+        visited=False
+
+    ),
 ]
 
 
